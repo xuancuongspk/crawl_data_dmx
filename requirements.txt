@@ -1,0 +1,4 @@
+scrapy
+bs4
+lxml
+requests
